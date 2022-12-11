@@ -158,7 +158,7 @@ footer p {
     padding: 1rem 2rem;
     left: 50%;
     transform: translate3d(-50%, 100%, 0);
-    opacity: 0;
+    opacity: 1;
     transition: all .3s ease-in-out;
 }
 
@@ -247,7 +247,7 @@ footer p {
     }
 
     .swiper-slide figcaption {
-        left: 0;
+        left : 0;
         transform: none;
         width: 100%;
         border-radius: 0;
