@@ -15,10 +15,9 @@ new Swiper("#swiper-1", {
     loop: true
 });
 
+
 new Swiper("#swiper-2", {
-    
-    
-    autoplay: {
+        autoplay: {
         delay: 1000,
         disableOnInteraction: false,
         slidesPerView: 3,
@@ -32,6 +31,7 @@ new Swiper("#swiper-2", {
     pagination: {
         el: ("#swiper-2 .swiper-custom-pagination"),
         clickable: true,
+        
         /*
         renderBullet: function (index, className) {
             return `<div class=${className}>
@@ -39,6 +39,8 @@ new Swiper("#swiper-2", {
             <span class="line"></span>
             </div>`;
         }*/
+
+        
     },
     lazyLoading: true,
     loop: true,
