@@ -1,7 +1,7 @@
 new Swiper("#swiper-1", {
     effect: "fade",
     autoplay: {
-        delay: 1000,
+        delay: 5000,
         disableOnInteraction: false,
         slidesPerView: 3,
         centeredSlides: true,
@@ -18,7 +18,7 @@ new Swiper("#swiper-1", {
 
 new Swiper("#swiper-2", {
         autoplay: {
-        delay: 1000,
+        delay: 5000,
         disableOnInteraction: false,
         slidesPerView: 3,
         centeredSlides: true,
