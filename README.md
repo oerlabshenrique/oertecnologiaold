@@ -1,4 +1,4 @@
-OER Tecnologia
+OER Tecnologia lltda
 
 Projeto: OER Tecnologia
 URL: https://oertecnologia.com.br/
