@@ -26,15 +26,30 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+### Skills 
 
+<p align="left">
+
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+
+
+
+
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+</p>
 
 
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221661076-6ea63493-e965-4bb0-89e6-59d557d64554.png" width="36" height="36" alt="Gatsby" /></a>
@@ -71,11 +86,17 @@ Here are some ideas to get you started:
 <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221665501-340207db-dd1c-4c81-887e-12750e8a6653.png" width="36" height="36" alt="Gatsby"/></a>
 
 
-![image](https://user-images.githubusercontent.com/108233457/221695448-b090f1fb-abf8-40d0-9f37-10e720f8262b.png)
-![image](https://user-images.githubusercontent.com/108233457/221695485-232635b4-e8db-4e1e-bc7c-0f34c1975c71.png)
-![image](https://user-images.githubusercontent.com/108233457/221695526-e02351d3-f9c1-44c7-a494-9a88bba4d1a0.png)
-![image](https://user-images.githubusercontent.com/108233457/221695589-114cc2e3-8b40-4c07-b987-9e8cc66992d3.png)
-![image](https://user-images.githubusercontent.com/108233457/221695687-9de99a69-468d-40f5-bfe6-689e9353890b.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -102,9 +123,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![image](https://user-images.githubusercontent.com/108233457/221665436-59322536-eef3-4972-a2b8-a5e31c0ff543.png)
-![image](https://user-images.githubusercontent.com/108233457/221665501-340207db-dd1c-4c81-887e-12750e8a6653.png)
-
 
 
 ## ⚡ 👋
@@ -122,33 +140,33 @@ Here are some ideas to get you started:
 ## ⚡ OER Tecnologia 👋
 
 
-[:octocat: Git OER Tecnologia](https://github.com/oerlabshenrique/oertecnologia)
-
-
-[:octocat: OER Tecnologia](https://https://oertecnologia.com.br/)
-
 <h6>
 TRANSFORMANDO SONHOS EM REALIDADE!<br>
-
-
-
-(https://oertecnologia.com.br/img/oer.png)
-
-
 20 anos trabalhando com a excelência e a qualidade para entregar as melhores soluções de ti, adequadas as necessidades dos clientes e parceiros.
 </h6>
 
-[:octocat: OER Tecnologia]https://oertecnologia.com.br/)
+
+[:octocat: OER Tecnologia](https://oertecnologia.com.br/)
 
 <h6>
-[:octocat: OER Tecnologia](https://github.com/oerlabshenrique/oertecnologia)
-<br>
-URL: https://oertecnologia.com.br/<br>
 Autor: Luiz Olivetti / Henrique Olivetti<br>
 Email: luiz@oertecnologia.com.br / henrique@oertecnologia.com.br<br>
-<h6>
+</h6>
 
-  ##
+
+
+
+
+### Redes Socials
+
+<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695448-b090f1fb-abf8-40d0-9f37-10e720f8262b.png" width="36" height="36" alt="Facebook"/></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695485-232635b4-e8db-4e1e-bc7c-0f34c1975c71.png" width="36" height="36" alt="Twitter"/></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695526-e02351d3-f9c1-44c7-a494-9a88bba4d1a0.png" width="36" height="36" alt="Linkedin"/></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695589-114cc2e3-8b40-4c07-b987-9e8cc66992d3.png" width="36" height="36" alt="Instagram"/></a>
+
+
+
+##
   
  
 <div style="display: inline_block"><br>
